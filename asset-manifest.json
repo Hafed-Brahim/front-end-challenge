@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/front-end-challenge/static/css/main.3fa0fd30.chunk.css",
+    "main.js": "/front-end-challenge/static/js/main.568c640d.chunk.js",
+    "main.js.map": "/front-end-challenge/static/js/main.568c640d.chunk.js.map",
+    "runtime-main.js": "/front-end-challenge/static/js/runtime-main.c83b8d59.js",
+    "runtime-main.js.map": "/front-end-challenge/static/js/runtime-main.c83b8d59.js.map",
+    "static/js/2.6db5eabb.chunk.js": "/front-end-challenge/static/js/2.6db5eabb.chunk.js",
+    "static/js/2.6db5eabb.chunk.js.map": "/front-end-challenge/static/js/2.6db5eabb.chunk.js.map",
+    "index.html": "/front-end-challenge/index.html",
+    "precache-manifest.3aa13ea66d401c406fd32356c0689c8b.js": "/front-end-challenge/precache-manifest.3aa13ea66d401c406fd32356c0689c8b.js",
+    "service-worker.js": "/front-end-challenge/service-worker.js",
+    "static/css/main.3fa0fd30.chunk.css.map": "/front-end-challenge/static/css/main.3fa0fd30.chunk.css.map",
+    "static/js/2.6db5eabb.chunk.js.LICENSE": "/front-end-challenge/static/js/2.6db5eabb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c83b8d59.js",
+    "static/js/2.6db5eabb.chunk.js",
+    "static/css/main.3fa0fd30.chunk.css",
+    "static/js/main.568c640d.chunk.js"
+  ]
+}
