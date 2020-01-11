@@ -1,3 +1,8 @@
+This is my solution to the front-end-challenge by united remote, i've tried to keep it as simple as it can be while adhering to the features specified in the challenge description.
+Main features: listing the most starred github repos in the last month 
+Technology: React
+Work time: 5 hours
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
